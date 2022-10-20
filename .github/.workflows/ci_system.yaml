@@ -6,7 +6,7 @@ jobs:
   test-job:
     runs-on: ubuntu-16.04
     steps:
-    - uses: actions/checkout@v2
+    - uses: tests.py
     - uses: actions/setup-node@v1
       name: 'setup node'
       with:

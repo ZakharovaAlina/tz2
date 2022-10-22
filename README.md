@@ -10,8 +10,7 @@
 3. `_sum` - поиск суммы всех чисел в файле
 4. `_mult` - поиск произведения всех чисел в файле
 
-`![](https://github.com/ZakharovaAlina/tz2/actions/workflows/ci.yml/badge.svg?branch=main)`</br>
-![Main0 branch](https://github.com/ZakharovaAlina/tz2/actions/workflows/ci.yml/badge.svg?branch=main)
+![Main0 branch](https://github.com/ZakharovaAlina/tz2/actions/workflows/ci.yml/badge.svg?branch=main0)
 <br/>
 <br/>
 ### Сюда добавить картинку графика:<br/>

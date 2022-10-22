@@ -15,4 +15,4 @@
 <br/>
 <br/>
 ### Сюда добавить картинку графика:<br/>
-![](https://disk.yandex.ru/i/3eUHjxthmePNAA)
+![](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2FIMG_2465.jpg)

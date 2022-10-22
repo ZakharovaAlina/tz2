@@ -14,3 +14,4 @@ def _mult(file_name):
     for i in data:
         a*=i
     return a
+

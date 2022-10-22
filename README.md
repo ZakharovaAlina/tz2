@@ -11,7 +11,8 @@
 4. `_mult` - поиск произведения всех чисел в файле
 
 ![Main0 branch](https://github.com/ZakharovaAlina/tz2/actions/workflows/ci.yml/badge.svg?branch=main0)
-![](https://disk.yandex.ru/i/3eUHjxthmePNAA)
+
 <br/>
 <br/>
 ### Сюда добавить картинку графика:<br/>
+![](https://disk.yandex.ru/i/3eUHjxthmePNAA)
